@@ -26,4 +26,4 @@ To acquire knowledge and experience in frontend development for making perspecti
 University: Saratov SU
 
 ## Online learning
-freecodecamp
+freeCodeCamp
